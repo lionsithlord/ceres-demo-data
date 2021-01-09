@@ -1,216 +1,216 @@
 {
-  "message": {
-    "Accelerometer": [
-      {
-   "AccountId": "Crane World Wide",
-   "DeviceId": 1,
-   "DeviceName": "VD0001",
-   "CurrentShipmentId": "9DE34689-7DD5-4E78-9619-0CAECD45A094",
-   "EntryTimeEpoch": 1510000000000,
-   "EntryTimeUtc": "2021-01-05T23:18:14.172",
-   "Location__Latitude": 42.40655,
-   "Location__Longitude": -71.16669,
-   "Location__FormattedAddress": "36 Cameron Ave, Cambridge, MA, USA",
-   "Location__Address__Street": "36 Cameron Ave",
-   "Location__Address__Sublocality": null,
-   "Location__Address__Locality": "Cambridge",
-   "Location__Address__State": "MA",
-   "Location__Address__Country": "USA",
-   "Location__Address__ZipCode": "",
-   "Cellular__SignalStrength": null,
-   "Cellular__Dbm": null,
-   "Temperature__Celsius": -1.506099977,
-   "Temperature__Fahrenheit": 29.8110199,
-   "Humidity_Percentage": 40,
-   "Pressure__Psi": 14.65461349,
-   "Accelerometer__X": 0.005859375,
-   "Accelerometer__Y": -0.006835938,
-   "Accelerometer__Z": -0.978515625,
-   "Light__Lux": 17.872,
-   "Battery__Percentage": 68.43,
-   "Battery__IsCharging": false,
-   "FIELD28": "",
-   "customerName": "CVS",
-   "shipNumber": "9DE34689-7DD5-4E78-9619-0CAECD45A094",
-   "bookingNumber": 189,
-   "jobNumber": 54,
-   "serviceType": null,
-   "serviceLevel": null,
-   "grossWeight": 113,
-   "grossWeight_Ut": null,
-   "chargeableWeight": null,
-   "chargeableWeight_Ut": null,
-   "Origin": "36 Cameron Ave, Cambridge, MA, USA",
-   "destination": "3737 Buffalo Speedway, Houston, TX 77098, USA",
-   "stationCode": "Cambridge08A467",
-   "dueDate": "1/5/2020",
-   "shipperName": "Mckesson",
-   "consigneeName": "CVS",
-   "totalPieces": 5,
-   "clientId": "CVS_0167",
-   "mode": "Truck",
-   "FIELD48": "",
-   "Weather_Summary": "Overcast",
-   "Weather_Description": "cloudy",
-   "Outside_Temperature": 31.5,
-   "Dew_Point": 28.97,
-   "Atmospheric_Humidity": 0.9,
-   "Outside_Air_Pressure": 1013.2,
-   "Wind_Speed": 7.74,
-   "Wind_Gust": 17.95,
-   "Wind_Direction": 356,
-   "Visibility": 8.842,
-   "FIELD59": "",
-   "Odometer": 88936,
-   "odometer_end_meters": 2000000,
-   "odometer_start_meters": 1000000,
-   "trailer_id": 777,
-   "vehicle_id": 444,
-   "driver_id": 88668,
-   "driver_name": "Susan Smith",
-   "Carrier_Name": "Acme Inc.",
-   "Carrier_dot": 98231,
-   "License_Number": "E1234567",
-   "License State": "TX",
-   "Driver_Speed": 48.3
- },
-    ]
+  "message":{
+     "Accelerometer":[
+        {
+           "AccountId":"Crane World Wide",
+           "DeviceId":1,
+           "DeviceName":"VD0001",
+           "CurrentShipmentId":"9DE34689-7DD5-4E78-9619-0CAECD45A094",
+           "EntryTimeEpoch":1510000000000,
+           "EntryTimeUtc":"2021-01-05T23:18:14.172",
+           "Location__Latitude":42.40655,
+           "Location__Longitude":-71.16669,
+           "Location__FormattedAddress":"36 Cameron Ave, Cambridge, MA, USA",
+           "Location__Address__Street":"36 Cameron Ave",
+           "Location__Address__Sublocality":null,
+           "Location__Address__Locality":"Cambridge",
+           "Location__Address__State":"MA",
+           "Location__Address__Country":"USA",
+           "Location__Address__ZipCode":"",
+           "Cellular__SignalStrength":null,
+           "Cellular__Dbm":null,
+           "Temperature__Celsius":-1.506099977,
+           "Temperature__Fahrenheit":29.8110199,
+           "Humidity_Percentage":40,
+           "Pressure__Psi":14.65461349,
+           "Accelerometer__X":0.005859375,
+           "Accelerometer__Y":-0.006835938,
+           "Accelerometer__Z":-0.978515625,
+           "Light__Lux":17.872,
+           "Battery__Percentage":68.43,
+           "Battery__IsCharging":false,
+           "FIELD28":"",
+           "customerName":"CVS",
+           "shipNumber":"9DE34689-7DD5-4E78-9619-0CAECD45A094",
+           "bookingNumber":189,
+           "jobNumber":54,
+           "serviceType":null,
+           "serviceLevel":null,
+           "grossWeight":113,
+           "grossWeight_Ut":null,
+           "chargeableWeight":null,
+           "chargeableWeight_Ut":null,
+           "Origin":"36 Cameron Ave, Cambridge, MA, USA",
+           "destination":"3737 Buffalo Speedway, Houston, TX 77098, USA",
+           "stationCode":"Cambridge08A467",
+           "dueDate":"1/5/2020",
+           "shipperName":"Mckesson",
+           "consigneeName":"CVS",
+           "totalPieces":5,
+           "clientId":"CVS_0167",
+           "mode":"Truck",
+           "FIELD48":"",
+           "Weather_Summary":"Overcast",
+           "Weather_Description":"cloudy",
+           "Outside_Temperature":31.5,
+           "Dew_Point":28.97,
+           "Atmospheric_Humidity":0.9,
+           "Outside_Air_Pressure":1013.2,
+           "Wind_Speed":7.74,
+           "Wind_Gust":17.95,
+           "Wind_Direction":356,
+           "Visibility":8.842,
+           "FIELD59":"",
+           "Odometer":88936,
+           "odometer_end_meters":2000000,
+           "odometer_start_meters":1000000,
+           "trailer_id":777,
+           "vehicle_id":444,
+           "driver_id":88668,
+           "driver_name":"Susan Smith",
+           "Carrier_Name":"Acme Inc.",
+           "Carrier_dot":98231,
+           "License_Number":"E1234567",
+           "License State":"TX",
+           "Driver_Speed":48.3
+        }
+     ]
   },
-  "input": {
-    "resource": "/item",
-    "path": "/item",
-    "httpMethod": "GET",
-    "headers": {
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-      "Accept-Encoding": "gzip, deflate, br",
-      "Accept-Language": "en-US,en;q=0.9",
-      "CloudFront-Forwarded-Proto": "https",
-      "CloudFront-Is-Desktop-Viewer": "true",
-      "CloudFront-Is-Mobile-Viewer": "false",
-      "CloudFront-Is-SmartTV-Viewer": "false",
-      "CloudFront-Is-Tablet-Viewer": "false",
-      "CloudFront-Viewer-Country": "US",
-      "dnt": "1",
-      "Host": "fzrcajxsxe.execute-api.us-east-1.amazonaws.com",
-      "sec-fetch-dest": "document",
-      "sec-fetch-mode": "navigate",
-      "sec-fetch-site": "none",
-      "sec-fetch-user": "?1",
-      "upgrade-insecure-requests": "1",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
-      "Via": "2.0 ba75c7fb6b554536a3cda043ebcad6de.cloudfront.net (CloudFront)",
-      "X-Amz-Cf-Id": "fXXCqsAU1HgdnQdlfSMunqxp_bf0vSnt9D_ZxR_2h8ACiEG8GcnWDQ==",
-      "X-Amzn-Trace-Id": "Root=1-5ff76235-445bef597ba5625d3880c52b",
-      "X-Forwarded-For": "76.184.56.251, 70.132.6.84",
-      "X-Forwarded-Port": "443",
-      "X-Forwarded-Proto": "https"
-    },
-    "multiValueHeaders": {
-      "Accept": [
-        "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
-      ],
-      "Accept-Encoding": [
-        "gzip, deflate, br"
-      ],
-      "Accept-Language": [
-        "en-US,en;q=0.9"
-      ],
-      "CloudFront-Forwarded-Proto": [
-        "https"
-      ],
-      "CloudFront-Is-Desktop-Viewer": [
-        "true"
-      ],
-      "CloudFront-Is-Mobile-Viewer": [
-        "false"
-      ],
-      "CloudFront-Is-SmartTV-Viewer": [
-        "false"
-      ],
-      "CloudFront-Is-Tablet-Viewer": [
-        "false"
-      ],
-      "CloudFront-Viewer-Country": [
-        "US"
-      ],
-      "dnt": [
-        "1"
-      ],
-      "Host": [
-        "fzrcajxsxe.execute-api.us-east-1.amazonaws.com"
-      ],
-      "sec-fetch-dest": [
-        "document"
-      ],
-      "sec-fetch-mode": [
-        "navigate"
-      ],
-      "sec-fetch-site": [
-        "none"
-      ],
-      "sec-fetch-user": [
-        "?1"
-      ],
-      "upgrade-insecure-requests": [
-        "1"
-      ],
-      "User-Agent": [
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
-      ],
-      "Via": [
-        "2.0 ba75c7fb6b554536a3cda043ebcad6de.cloudfront.net (CloudFront)"
-      ],
-      "X-Amz-Cf-Id": [
-        "fXXCqsAU1HgdnQdlfSMunqxp_bf0vSnt9D_ZxR_2h8ACiEG8GcnWDQ=="
-      ],
-      "X-Amzn-Trace-Id": [
-        "Root=1-5ff76235-445bef597ba5625d3880c52b"
-      ],
-      "X-Forwarded-For": [
-        "76.184.56.251, 70.132.6.84"
-      ],
-      "X-Forwarded-Port": [
-        "443"
-      ],
-      "X-Forwarded-Proto": [
-        "https"
-      ]
-    },
-    "queryStringParameters": null,
-    "multiValueQueryStringParameters": null,
-    "pathParameters": null,
-    "stageVariables": null,
-    "requestContext": {
-      "resourceId": "7oo0s2",
-      "resourcePath": "/item",
-      "httpMethod": "GET",
-      "extendedRequestId": "YyxIYGjoIAMFjKA=",
-      "requestTime": "07/Jan/2021:19:34:13 +0000",
-      "path": "/dev/item",
-      "accountId": "248831772506",
-      "protocol": "HTTP/1.1",
-      "stage": "dev",
-      "domainPrefix": "fzrcajxsxe",
-      "requestTimeEpoch": 1610048053515,
-      "requestId": "82e42678-60ad-4541-946c-23dd3b0d0758",
-      "identity": {
-        "cognitoIdentityPoolId": null,
-        "accountId": null,
-        "cognitoIdentityId": null,
-        "caller": null,
-        "sourceIp": "76.184.56.251",
-        "principalOrgId": null,
-        "accessKey": null,
-        "cognitoAuthenticationType": null,
-        "cognitoAuthenticationProvider": null,
-        "userArn": null,
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
-        "user": null
-      },
-      "domainName": "https://lionsithlord.github.io/ceres-demo-data/resultv6.json",
-      "apiId": "fzrcajxsxe"
-    },
-    "body": null,
-    "isBase64Encoded": false
+  "input":{
+     "resource":"/item",
+     "path":"/item",
+     "httpMethod":"GET",
+     "headers":{
+        "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+        "Accept-Encoding":"gzip, deflate, br",
+        "Accept-Language":"en-US,en;q=0.9",
+        "CloudFront-Forwarded-Proto":"https",
+        "CloudFront-Is-Desktop-Viewer":"true",
+        "CloudFront-Is-Mobile-Viewer":"false",
+        "CloudFront-Is-SmartTV-Viewer":"false",
+        "CloudFront-Is-Tablet-Viewer":"false",
+        "CloudFront-Viewer-Country":"US",
+        "dnt":"1",
+        "Host":"fzrcajxsxe.execute-api.us-east-1.amazonaws.com",
+        "sec-fetch-dest":"document",
+        "sec-fetch-mode":"navigate",
+        "sec-fetch-site":"none",
+        "sec-fetch-user":"?1",
+        "upgrade-insecure-requests":"1",
+        "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+        "Via":"2.0 ba75c7fb6b554536a3cda043ebcad6de.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Id":"fXXCqsAU1HgdnQdlfSMunqxp_bf0vSnt9D_ZxR_2h8ACiEG8GcnWDQ==",
+        "X-Amzn-Trace-Id":"Root=1-5ff76235-445bef597ba5625d3880c52b",
+        "X-Forwarded-For":"76.184.56.251, 70.132.6.84",
+        "X-Forwarded-Port":"443",
+        "X-Forwarded-Proto":"https"
+     },
+     "multiValueHeaders":{
+        "Accept":[
+           "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        "Accept-Encoding":[
+           "gzip, deflate, br"
+        ],
+        "Accept-Language":[
+           "en-US,en;q=0.9"
+        ],
+        "CloudFront-Forwarded-Proto":[
+           "https"
+        ],
+        "CloudFront-Is-Desktop-Viewer":[
+           "true"
+        ],
+        "CloudFront-Is-Mobile-Viewer":[
+           "false"
+        ],
+        "CloudFront-Is-SmartTV-Viewer":[
+           "false"
+        ],
+        "CloudFront-Is-Tablet-Viewer":[
+           "false"
+        ],
+        "CloudFront-Viewer-Country":[
+           "US"
+        ],
+        "dnt":[
+           "1"
+        ],
+        "Host":[
+           "fzrcajxsxe.execute-api.us-east-1.amazonaws.com"
+        ],
+        "sec-fetch-dest":[
+           "document"
+        ],
+        "sec-fetch-mode":[
+           "navigate"
+        ],
+        "sec-fetch-site":[
+           "none"
+        ],
+        "sec-fetch-user":[
+           "?1"
+        ],
+        "upgrade-insecure-requests":[
+           "1"
+        ],
+        "User-Agent":[
+           "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+        ],
+        "Via":[
+           "2.0 ba75c7fb6b554536a3cda043ebcad6de.cloudfront.net (CloudFront)"
+        ],
+        "X-Amz-Cf-Id":[
+           "fXXCqsAU1HgdnQdlfSMunqxp_bf0vSnt9D_ZxR_2h8ACiEG8GcnWDQ=="
+        ],
+        "X-Amzn-Trace-Id":[
+           "Root=1-5ff76235-445bef597ba5625d3880c52b"
+        ],
+        "X-Forwarded-For":[
+           "76.184.56.251, 70.132.6.84"
+        ],
+        "X-Forwarded-Port":[
+           "443"
+        ],
+        "X-Forwarded-Proto":[
+           "https"
+        ]
+     },
+     "queryStringParameters":null,
+     "multiValueQueryStringParameters":null,
+     "pathParameters":null,
+     "stageVariables":null,
+     "requestContext":{
+        "resourceId":"7oo0s2",
+        "resourcePath":"/item",
+        "httpMethod":"GET",
+        "extendedRequestId":"YyxIYGjoIAMFjKA=",
+        "requestTime":"07/Jan/2021:19:34:13 +0000",
+        "path":"/dev/item",
+        "accountId":"248831772506",
+        "protocol":"HTTP/1.1",
+        "stage":"dev",
+        "domainPrefix":"fzrcajxsxe",
+        "requestTimeEpoch":1610048053515,
+        "requestId":"82e42678-60ad-4541-946c-23dd3b0d0758",
+        "identity":{
+           "cognitoIdentityPoolId":null,
+           "accountId":null,
+           "cognitoIdentityId":null,
+           "caller":null,
+           "sourceIp":"76.184.56.251",
+           "principalOrgId":null,
+           "accessKey":null,
+           "cognitoAuthenticationType":null,
+           "cognitoAuthenticationProvider":null,
+           "userArn":null,
+           "userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+           "user":null
+        },
+        "domainName":"https://lionsithlord.github.io/ceres-demo-data/resultv6.json",
+        "apiId":"fzrcajxsxe"
+     },
+     "body":null,
+     "isBase64Encoded":false
   }
 }
